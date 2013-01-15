@@ -1,0 +1,4 @@
+@import "recipes/shape/triangle";
+.my-triangle {
+	@include triangle;
+} 
