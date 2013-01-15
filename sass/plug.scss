@@ -1,4 +1,3 @@
-@import "recipes/shape/triangle";
-.my-triangle {
-	@include triangle;
-} 
+body.loading {
+	display: none;
+}
